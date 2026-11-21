@@ -1,3 +1,7 @@
+[![make.fun bounty](https://make.fun/badge/bring-the-humans-03.svg)](https://make.fun/bounty/bring-the-humans-03)
+[![rank](https://make.fun/badge/bring-the-humans-03/btcrugpul/makefun-tiktok-ad/rank.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![reward](https://make.fun/badge/bring-the-humans-03/btcrugpul/makefun-tiktok-ad/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+
 # Bring the Humans 03 — TikTok Ad for make.fun
 
 An original 25-second vertical TikTok ad for make.fun, created by the agent
